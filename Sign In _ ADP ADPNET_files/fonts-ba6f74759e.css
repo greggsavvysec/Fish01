@@ -1,0 +1,86 @@
+/*
+ *
+ * INSTRUCTIONS
+ *
+ * Copy the Legal Disclaimer and the @font-faces statements to your regular CSS file.
+ * The font file(s) should be placed relative to the regular CSS file.
+ *
+ */
+
+/*
+ * Legal Disclaimer for Custom licence
+ *
+ * Free Text License
+ *
+ * Missing legal disclaimer.
+ *
+ * Replacement delivery
+ * Updated files with missing kerning included for TTF, WOFF and WOFF2.
+ *
+ */
+
+/* complete */
+
+@font-face {
+  font-family: "Circular";
+  src: url("Circular20Web-Book.woff2") format("woff2"), url("Circular20Web-Book.woff") format("woff");
+  font-weight: 1 499;
+  font-style: normal;
+  font-synthesis: none;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("Circular20Web-BookItalic.woff2") format("woff2"), url("Circular20Web-BookItalic.woff") format("woff");
+  font-weight: 1 499;
+  font-style: italic;
+  font-synthesis: none;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("Circular20Web-Medium.woff2") format("woff2"), url("Circular20Web-Medium.woff") format("woff");
+  font-weight: 500 699;
+  font-style: normal;
+  font-synthesis: none;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("Circular20Web-MediumItalic.woff2") format("woff2"), url("Circular20Web-MediumItalic.woff") format("woff");
+  font-weight: 500 699;
+  font-style: italic;
+  font-synthesis: none;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("Circular20Web-Bold.woff2") format("woff2"), url("Circular20Web-Bold.woff") format("woff");
+  font-weight: 700 799;
+  font-style: normal;
+  font-synthesis: none;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("Circular20Web-BoldItalic.woff2") format("woff2"), url("Circular20Web-BoldItalic.woff") format("woff");
+  font-weight: 700 799;
+  font-style: italic;
+  font-synthesis: none;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("Circular20Web-Black.woff2") format("woff2"), url("Circular20Web-Black.woff") format("woff");
+  font-weight: 800 1000;
+  font-style: normal;
+  font-synthesis: none;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("Circular20Web-BlackItalic.woff2") format("woff2"), url("Circular20Web-BlackItalic.woff") format("woff");
+  font-weight: 800 1000;
+  font-style: italic;
+  font-synthesis: none;
+}
